@@ -15,7 +15,7 @@ pwd
 3. cd (Change Directory), to change directory.
 
 ```sh
-cd $HOME/devops-roadmap/01-Operating-Systems/01-Linux/commands/
+cd $HOME/devops-roadmap/0-Operating-Systems/0-Linux/commands/
 ```
 
 4. ls (List), to list.
